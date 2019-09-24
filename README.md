@@ -1,2 +1,4 @@
 # API-Study-Repo
-This wiki was created as an example from Tom Johnson's API learning course
+This wiki was created as an example from Tom Johnson's API learning course.
+
+Michael Benavidez
